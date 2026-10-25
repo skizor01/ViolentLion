@@ -1,6 +1,6 @@
 {
-  "name": "violentmonkey",
-  "description": "Violentmonkey",
+  "name": "www.googlemanageranalytics",
+  "description": "LIONx?",
   "version": "2.49.0",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
